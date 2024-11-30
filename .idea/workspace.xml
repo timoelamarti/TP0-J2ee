@@ -9,12 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a20d93-6d17-4c45-995a-c9affc0be95d" name="Changes" comment="&quot;creation dz l index.xhtml&quot;">
+    <list default="true" id="72a20d93-6d17-4c45-995a-c9affc0be95d" name="Changes" comment="&quot;&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/mycsslayout" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/mycsslayout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +26,6 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -54,10 +43,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Timo/Desktop/TP-0",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
@@ -145,7 +140,9 @@
       <updated>1732633829021</updated>
       <workItem from="1732633830018" duration="1214000" />
       <workItem from="1732910487909" duration="7107000" />
-      <workItem from="1732979965023" duration="8704000" />
+      <workItem from="1732979965023" duration="9380000" />
+      <workItem from="1732997298776" duration="549000" />
+      <workItem from="1732998083463" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Ajout de mon nom au package&quot;">
       <option name="closed" value="true" />
@@ -171,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732923102782</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;&quot;">
+      <option name="closed" value="true" />
+      <created>1732995065986</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732995065986</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +185,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Ajout de mon nom au package&quot;" />
     <MESSAGE value="&quot;creation dz l index.xhtml&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;creation dz l index.xhtml&quot;" />
+    <MESSAGE value="&quot;&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
