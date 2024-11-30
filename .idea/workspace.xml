@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a20d93-6d17-4c45-995a-c9affc0be95d" name="Changes" comment="&quot;TP0 réussi&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72a20d93-6d17-4c45-995a-c9affc0be95d" name="Changes" comment="&quot;Ajout d'un traitement personnalisé pour inverser la question et afficher des statistiques&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +141,7 @@
       <workItem from="1732979965023" duration="9380000" />
       <workItem from="1732997298776" duration="549000" />
       <workItem from="1732998083463" duration="1331000" />
-      <workItem from="1733005711947" duration="478000" />
+      <workItem from="1733005711947" duration="808000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Ajout de mon nom au package&quot;">
       <option name="closed" value="true" />
@@ -185,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732998706900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;Ajout d'un traitement personnalisé pour inverser la question et afficher des statistiques&quot;">
+      <option name="closed" value="true" />
+      <created>1733006313561</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733006313561</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +202,8 @@
     <MESSAGE value="&quot;creation dz l index.xhtml&quot;" />
     <MESSAGE value="&quot;&quot;" />
     <MESSAGE value="&quot;TP0 réussi&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;TP0 réussi&quot;" />
+    <MESSAGE value="&quot;Ajout d'un traitement personnalisé pour inverser la question et afficher des statistiques&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Ajout d'un traitement personnalisé pour inverser la question et afficher des statistiques&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
